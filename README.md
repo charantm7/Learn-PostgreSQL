@@ -1,4 +1,3 @@
-```md
 # PostgreSQL Learning
 
 This repository documents my PostgreSQL learning journey. It contains SQL queries, practice exercises, and notes covering PostgreSQL fundamentals to advanced concepts.
@@ -62,4 +61,3 @@ This repository serves as my personal PostgreSQL practice space, where I explore
 ---
 
 **Happy Learning!**
-```
