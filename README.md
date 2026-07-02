@@ -39,10 +39,10 @@ This repository documents my PostgreSQL learning journey. It contains SQL querie
 
 ## 📈 Progress
 
-- [✓] SQL Basics
-- [✓] CRUD Operations
-- [✓] Constraints
-- [✓] Filtering & Sorting
+- [x] SQL Basics
+- [x] CRUD Operations
+- [x] Constraints
+- [x] Filtering & Sorting
 - [ ] Aggregate Functions
 - [ ] Joins
 - [ ] Transactions
