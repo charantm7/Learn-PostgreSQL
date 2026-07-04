@@ -1,7 +1,7 @@
 
 ## <ins>Filtering Data: (clauses)</ins>
 
-1.  WHERE Operator: To retrieve rows  that satisfy the conditions.
+1.  WHERE Operator: To retrieve row that satisfy the conditions.
 
 	- `select first_name, last_name from users where username='charantm';`
 
