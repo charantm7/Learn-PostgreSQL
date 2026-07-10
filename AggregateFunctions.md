@@ -33,8 +33,18 @@ The group by is used to group the set of rows which has same values so we can ap
 
 *GROUP BY column → Create groups of same values*
 
-*Aggregate function → Perform calculation on each group* 
+*Aggregate function → Perform calculation on each group*
 
 <ins>example:</ins>
 
 `SELECT department, COUNT(*) FROM employees GROUP BY department;`
+
+&nbsp;
+
+<ins>HAVING CLAUSE:</ins>
+
+The having clause is introduced because where clause cannot used with aggregate functions, so to put conditions for the aggregate included query, we use the having clause.
+
+examples: `select count(first_name) as members, first_name from users group by first_name having count(first_name) > 2;`
+
+&nbsp;
