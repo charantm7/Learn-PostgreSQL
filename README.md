@@ -45,7 +45,7 @@ This repository documents my PostgreSQL learning journey. It contains SQL querie
 - [x] Filtering & Sorting
 - [x] Aggregate Functions
 - [x] Joins
-- [ ] Transactions
+- [x] Transactions
 - [ ] Views
 - [ ] Indexes
 - [ ] Functions
