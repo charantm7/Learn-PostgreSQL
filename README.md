@@ -43,8 +43,8 @@ This repository documents my PostgreSQL learning journey. It contains SQL querie
 - [x] CRUD Operations
 - [x] Constraints
 - [x] Filtering & Sorting
-- [ ] Aggregate Functions
-- [ ] Joins
+- [x] Aggregate Functions
+- [x] Joins
 - [ ] Transactions
 - [ ] Views
 - [ ] Indexes
